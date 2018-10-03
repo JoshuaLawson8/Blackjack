@@ -27,9 +27,7 @@ public class Player {
     public Player()
     {
         name = "dealer";
-        money =  2147483647;
-        
-        
+        money = Integer.MAX_VALUE;
     }
     
     /**
